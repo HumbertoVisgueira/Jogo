@@ -1,5 +1,7 @@
 import pygame
 
+
+
 pygame.init()
 
 screen = pygame.display.set_mode((800, 600), 0)
@@ -161,7 +163,7 @@ if __name__ == "__main__":
         cenario.pintar(screen)
         rufus.pintar(screen)
         pygame.display.update()
-        pygame.time.delay(100)
+        pygame.time.delay(0)
 
         # Captura os eventos
         eventos = pygame.event.get()
