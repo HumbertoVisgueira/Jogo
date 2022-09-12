@@ -1,2 +1,3 @@
 # Jogo
- Jogo pedido pela faculdade
+##Jogo produzido em PY com a biblioteca pygame 
+
